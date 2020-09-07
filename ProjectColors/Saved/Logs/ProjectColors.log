@@ -2898,3 +2898,971 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.07-02.18.49:657][480]LogSavePackage: Moving '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Saved/NumberOfGuesses9D3881AA4DDDC665089FC094CA9B255A.tmp' to '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/NumberOfGuesses.uasset'
 [2020.09.07-02.18.49:669][480]AssetCheck: New page: Asset Save: NumberOfGuesses
 [2020.09.07-02.18.49:669][480]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/NumberOfGuesses.NumberOfGuesses
+[2020.09.07-02.19.46:204][617]LogAIModule: Creating AISystem for world NicholeUITests
+[2020.09.07-02.19.46:205][617]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/NicholeUITests.NicholeUITests
+[2020.09.07-02.19.46:238][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.09.07-02.19.47:757][617]LogSlate: Window 'Save Content' being destroyed
+[2020.09.07-02.19.47:789][617]LogSavePackage: Moving '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Saved/volcanoA39029AA448FBCD8CADD188DC19EF89D.tmp' to '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/volcano.uasset'
+[2020.09.07-02.19.47:792][617]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholeUITests.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.19.47:792][617]LightingResults: New page: Lighting Build
+[2020.09.07-02.19.47:793][617]LoadErrors: New page: Loading map: NicholeUITests.umap
+[2020.09.07-02.19.47:809][617]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.19.47:809][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.19.47:846][617]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.19.47:847][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.19.47:847][617]MapCheck: New page: Map Check
+[2020.09.07-02.19.47:847][617]LightingResults: New page: Lighting Build
+[2020.09.07-02.19.47:881][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.09.07-02.19.47:884][617]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.19.47:917][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.09.07-02.19.47:941][617]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.19.47:941][617]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.09.07-02.19.47:941][617]LogFileHelpers: Loading map 'NicholeUITests' took 0.151
+[2020.09.07-02.19.47:986][617]AssetCheck: New page: Asset Save: volcano
+[2020.09.07-02.19.47:987][617]LogContentValidation: Display: Validating Material /Game/ShaderMaterials/volcano.volcano
+[2020.09.07-02.19.49:939][841]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.19.49:941][841]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest
+[2020.09.07-02.19.49:975][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.09.07-02.19.49:978][841]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.19.49:978][841]LightingResults: New page: Lighting Build
+[2020.09.07-02.19.49:979][841]LoadErrors: New page: Loading map: NicholePuzzleExampleTest.umap
+[2020.09.07-02.19.49:979][841]LogWorld: UWorld::CleanupWorld for NicholeUITests, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.19.49:979][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.19.49:979][841]MapCheck: New page: Map Check
+[2020.09.07-02.19.49:979][841]LightingResults: New page: Lighting Build
+[2020.09.07-02.19.50:011][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.09.07-02.19.50:013][841]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.19.50:045][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.09.07-02.19.50:071][841]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.19.50:071][841]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.09.07-02.19.50:071][841]LogFileHelpers: Loading map 'NicholePuzzleExampleTest' took 0.094
+[2020.09.07-02.20.03:990][496]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest
+[2020.09.07-02.20.10:649][257]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.07-02.20.13:705][617]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.07-02.20.15:717][850]BlueprintLog: New page: Compile NicholePuzzleExampleTest
+[2020.09.07-02.20.15:925][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.09.07-02.20.16:850][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.07-02.20.17:065][948]LogSavePackage: Moving '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Saved/NicholePuzzleExampleTestAAB133724823306E7D3441A41789B656.tmp' to '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap'
+[2020.09.07-02.20.17:091][948]LogFileHelpers: Saving map 'NicholePuzzleExampleTest' took 0.274
+[2020.09.07-02.20.17:101][948]AssetCheck: New page: Asset Save: NicholePuzzleExampleTest
+[2020.09.07-02.20.17:101][948]LogContentValidation: Display: Validating World /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest
+[2020.09.07-02.20.19:037][168]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.20.19:058][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.20.19:058][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.20.19:058][168]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:20:19 PM)
+[2020.09.07-02.20.19:058][168]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.20.19:065][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006988s)
+[2020.09.07-02.20.19:066][168]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.20.19:066][168]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2020.09.07-02.20.19:066][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.008346s)
+[2020.09.07-02.20.19:103][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.09.07-02.20.19:104][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.20.19:104][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.20.19:104][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.20.19:104][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.20.19:104][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.20.19:104][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.20.19:104][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.20.19:104][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.20.19:105][168]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.20.19:105][168]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.20.19:117][168]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.20.19:126][168]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.20.19:127][168]LogInit: FAudioDevice initialized.
+[2020.09.07-02.20.19:133][168]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.20.19:133][168]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.20.19
+[2020.09.07-02.20.19:133][168]LogWorld: Bringing up level for play took: 0.000459
+[2020.09.07-02.20.19:133][168]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.09.07-02.20.19:179][168]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.20.19:179][168]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest 0.292
+[2020.09.07-02.20.19:179][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.20.20:473][321]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.20.20:473][321]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.20.20:473][321]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.20.20:474][321]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.20.20:475][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.20.20:475][321]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.20.20:508][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.09.07-02.20.20:521][321]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.20.20:521][321]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.20.20:525][321]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.20.20
+[2020.09.07-02.20.20:525][321]LogWorld: Bringing up level for play took: 0.003608
+[2020.09.07-02.20.20:525][321]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.20.20:561][321]LogLoad: Took 0.087311 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.20.34:066][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.20.34:066][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.20.34:066][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.20.34:067][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.20.34:067][940]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.20.34:067][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.20.34:067][940]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.20.34:068][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.20.34:073][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.20.34:073][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.20.34:078][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.20.34:109][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.20.34:111][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.20.34:116][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.09.07-02.20.34:171][946]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.09.07-02.21.05:818][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.09.07-02.21.06:021][600]LogSavePackage: Moving '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Saved/NicholePuzzleExampleTestFE18E2B24F92C7092A2F0BB3C1A66B61.tmp' to '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap'
+[2020.09.07-02.21.06:047][600]LogFileHelpers: Saving map 'NicholePuzzleExampleTest' took 0.262
+[2020.09.07-02.21.06:057][600]AssetCheck: New page: Asset Save: NicholePuzzleExampleTest
+[2020.09.07-02.21.06:057][600]LogContentValidation: Display: Validating World /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest
+[2020.09.07-02.21.16:353][770]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/MainMenu.MainMenu
+[2020.09.07-02.23.09:260][253]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.23.09:284][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.23.09:284][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.23.09:284][253]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:23:09 PM)
+[2020.09.07-02.23.09:285][253]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.23.09:292][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007487s)
+[2020.09.07-02.23.09:293][253]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.23.09:293][253]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2020.09.07-02.23.09:293][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.008493s)
+[2020.09.07-02.23.09:331][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.23.09:333][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.23.09:333][253]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.23.09:333][253]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.23.09:346][253]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.23.09:354][253]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.23.09:355][253]LogInit: FAudioDevice initialized.
+[2020.09.07-02.23.09:363][253]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.23.09:363][253]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.23.09
+[2020.09.07-02.23.09:363][253]LogWorld: Bringing up level for play took: 0.000465
+[2020.09.07-02.23.09:364][253]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.09.07-02.23.09:409][253]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.23.09:409][253]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest 0.522
+[2020.09.07-02.23.09:409][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.23.18:144][298]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.23.18:144][298]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.23.18:144][298]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.23.18:145][298]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.23.18:145][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.23.18:146][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.23.18:183][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.09.07-02.23.18:197][298]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.23.18:197][298]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.23.18:205][298]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.23.18
+[2020.09.07-02.23.18:205][298]LogWorld: Bringing up level for play took: 0.008130
+[2020.09.07-02.23.18:206][298]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.23.18:241][298]LogLoad: Took 0.096919 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.23.29:153][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.23.29:153][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.23.29:153][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.23.29:153][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.23.29:153][602]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.23.29:153][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.23.29:154][602]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.23.29:154][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.23.29:162][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.23.29:162][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.23.29:167][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.23.29:199][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.23.29:202][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.23.29:207][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.09.07-02.23.29:253][607]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.09.07-02.26.22:363][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.26.22:397][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.26.22:397][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.26.22:397][425]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:26:22 PM)
+[2020.09.07-02.26.22:397][425]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.26.22:404][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006961s)
+[2020.09.07-02.26.22:405][425]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.26.22:405][425]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2020.09.07-02.26.22:405][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.008078s)
+[2020.09.07-02.26.22:442][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.26.22:444][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.26.22:444][425]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.26.22:444][425]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.26.22:457][425]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.26.22:465][425]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.26.22:466][425]LogInit: FAudioDevice initialized.
+[2020.09.07-02.26.22:476][425]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.26.22:476][425]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.26.22
+[2020.09.07-02.26.22:477][425]LogWorld: Bringing up level for play took: 0.000480
+[2020.09.07-02.26.22:477][425]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.09.07-02.26.22:520][425]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.26.22:520][425]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest -0.367
+[2020.09.07-02.26.22:520][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.26.25:673][796]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.26.25:673][796]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.26.25:673][796]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.26.25:674][796]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.26.25:675][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.26.25:675][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.26.25:710][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.09.07-02.26.25:723][796]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.26.25:723][796]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.26.25:726][796]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.26.25
+[2020.09.07-02.26.25:726][796]LogWorld: Bringing up level for play took: 0.001721
+[2020.09.07-02.26.25:726][796]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.26.25:762][796]LogLoad: Took 0.088246 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.26.36:757][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.26.36:757][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.26.36:757][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.26.36:757][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.26.36:757][114]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.26.36:757][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.26.36:757][114]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.26.36:758][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.26.36:766][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.26.36:766][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.26.36:771][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.26.36:802][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.26.36:804][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.26.36:809][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.09.07-02.26.36:859][118]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.09.07-02.26.49:076][575]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.26.49:087][575]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap
+[2020.09.07-02.26.49:121][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.09.07-02.26.49:124][575]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.26.49:124][575]LightingResults: New page: Lighting Build
+[2020.09.07-02.26.49:125][575]LoadErrors: New page: Loading map: PuzzleExampleMap.umap
+[2020.09.07-02.26.49:141][575]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.26.49:142][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.26.49:182][575]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.26.49:182][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.26.49:182][575]MapCheck: New page: Map Check
+[2020.09.07-02.26.49:182][575]LightingResults: New page: Lighting Build
+[2020.09.07-02.26.49:215][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.07-02.26.49:218][575]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.26.49:250][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.09.07-02.26.49:274][575]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.26.49:277][575]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.585ms to complete.
+[2020.09.07-02.26.49:277][575]LogFileHelpers: Loading map 'PuzzleExampleMap' took 0.154
+[2020.09.07-02.26.51:305][811]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.26.51:309][811]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest
+[2020.09.07-02.26.51:342][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.09.07-02.26.51:345][811]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.26.51:345][811]LightingResults: New page: Lighting Build
+[2020.09.07-02.26.51:346][811]LoadErrors: New page: Loading map: NicholePuzzleExampleTest.umap
+[2020.09.07-02.26.51:346][811]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.26.51:346][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.26.51:346][811]MapCheck: New page: Map Check
+[2020.09.07-02.26.51:346][811]LightingResults: New page: Lighting Build
+[2020.09.07-02.26.51:379][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.09.07-02.26.51:381][811]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.26.51:415][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.26.51:439][811]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.26.51:440][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2020.09.07-02.26.51:440][811]LogFileHelpers: Loading map 'NicholePuzzleExampleTest' took 0.095
+[2020.09.07-02.26.52:350][912]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.26.52:378][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.26.52:378][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.26.52:378][912]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:26:52 PM)
+[2020.09.07-02.26.52:378][912]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.26.52:387][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009222s)
+[2020.09.07-02.26.52:388][912]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.26.52:388][912]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2020.09.07-02.26.52:388][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.010214s)
+[2020.09.07-02.26.52:420][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.26.52:421][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.26.52:421][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.26.52:421][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.26.52:421][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.26.52:421][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.26.52:421][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.26.52:421][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.26.52:421][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.26.52:422][912]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.26.52:422][912]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.26.52:434][912]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.26.52:442][912]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.26.52:443][912]LogInit: FAudioDevice initialized.
+[2020.09.07-02.26.52:450][912]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.26.52:451][912]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.26.52
+[2020.09.07-02.26.52:451][912]LogWorld: Bringing up level for play took: 0.000453
+[2020.09.07-02.26.52:451][912]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.09.07-02.26.52:494][912]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.26.52:494][912]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest -0.393
+[2020.09.07-02.26.52:494][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.26.53:105][983]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.26.53:105][983]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.26.53:105][983]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.26.53:105][983]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.26.53:106][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.26.53:106][983]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.26.53:139][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.09.07-02.26.53:152][983]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.26.53:152][983]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.26.53:155][983]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.26.53
+[2020.09.07-02.26.53:155][983]LogWorld: Bringing up level for play took: 0.002489
+[2020.09.07-02.26.53:156][983]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.26.53:191][983]LogLoad: Took 0.086171 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.27.24:616][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.27.24:616][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.27.24:616][744]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.27.24:616][744]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.27.24:616][744]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.27.24:617][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.27.24:623][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.27.24:623][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.27.24:628][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.27.24:659][744]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.27.24:662][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.27.24:667][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.07-02.27.24:718][747]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.09.07-02.28.04:303][493]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest
+[2020.09.07-02.28.04:336][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.09.07-02.28.04:342][493]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.28.04:342][493]LightingResults: New page: Lighting Build
+[2020.09.07-02.28.04:342][493]LoadErrors: New page: Loading map: NicholePuzzleExampleTest.umap
+[2020.09.07-02.28.04:343][493]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.28.04:343][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.04:343][493]MapCheck: New page: Map Check
+[2020.09.07-02.28.04:343][493]LightingResults: New page: Lighting Build
+[2020.09.07-02.28.04:377][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.09.07-02.28.04:391][493]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.28.04:399][493]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.28.04:434][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.09.07-02.28.04:459][493]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.28.04:459][493]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.09.07-02.28.04:459][493]LogFileHelpers: Loading map 'NicholePuzzleExampleTest' took 0.118
+[2020.09.07-02.28.06:327][709]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.28.06:356][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.28.06:356][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.28.06:356][709]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:28:06 PM)
+[2020.09.07-02.28.06:356][709]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.28.06:366][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009638s)
+[2020.09.07-02.28.06:366][709]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.28.06:367][709]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2020.09.07-02.28.06:367][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.010610s)
+[2020.09.07-02.28.06:399][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.09.07-02.28.06:401][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.28.06:401][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.28.06:401][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.28.06:401][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.28.06:401][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.28.06:401][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.28.06:401][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.28.06:401][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.28.06:402][709]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.28.06:402][709]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.28.06:414][709]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.28.06:422][709]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.28.06:424][709]LogInit: FAudioDevice initialized.
+[2020.09.07-02.28.06:429][709]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.28.06:430][709]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.28.06
+[2020.09.07-02.28.06:430][709]LogWorld: Bringing up level for play took: 0.000452
+[2020.09.07-02.28.06:430][709]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.09.07-02.28.06:472][709]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.28.06:473][709]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest -0.414
+[2020.09.07-02.28.06:473][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.28.17:749][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.28.17:749][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.28.17:749][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.28.17:749][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.28.17:749][ 54]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.28.17:749][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.28.17:749][ 54]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.28.17:750][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.17:758][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.28.17:758][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.28.17:763][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.17:792][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.28.17:795][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.28.17:799][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.09.07-02.28.17:855][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.09.07-02.28.34:433][ 43]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.28.34:443][ 43]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap
+[2020.09.07-02.28.34:476][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.09.07-02.28.34:481][ 43]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.28.34:481][ 43]LightingResults: New page: Lighting Build
+[2020.09.07-02.28.34:481][ 43]LoadErrors: New page: Loading map: PuzzleExampleMap.umap
+[2020.09.07-02.28.34:482][ 43]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.28.34:482][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.34:482][ 43]MapCheck: New page: Map Check
+[2020.09.07-02.28.34:482][ 43]LightingResults: New page: Lighting Build
+[2020.09.07-02.28.34:516][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.09.07-02.28.34:518][ 43]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.28.34:554][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.09.07-02.28.34:579][ 43]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.28.34:579][ 43]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.09.07-02.28.34:579][ 43]LogFileHelpers: Loading map 'PuzzleExampleMap' took 0.100
+[2020.09.07-02.28.35:858][191]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.28.35:886][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.28.35:886][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.28.35:886][191]PIE: New page: PIE session: PuzzleExampleMap (Sep 6, 2020, 12:28:35 PM)
+[2020.09.07-02.28.35:886][191]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.28.35:896][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009385s)
+[2020.09.07-02.28.35:897][191]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.28.35:897][191]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.09.07-02.28.35:897][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.010382s)
+[2020.09.07-02.28.35:927][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.28.35:929][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.28.35:929][191]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.28.35:929][191]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.28.35:941][191]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.28.35:949][191]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.28.35:950][191]LogInit: FAudioDevice initialized.
+[2020.09.07-02.28.35:959][191]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.28.35:960][191]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.28.35
+[2020.09.07-02.28.35:960][191]LogWorld: Bringing up level for play took: 0.000433
+[2020.09.07-02.28.35:960][191]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.09.07-02.28.36:002][191]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1.115
+[2020.09.07-02.28.36:002][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.28.38:328][468]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.28.38:332][468]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.07-02.28.38:362][468]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.07-02.28.38:362][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.28.38:362][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.28.38:362][468]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.28.38:362][468]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.28.38:363][468]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.28.38:363][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.38:368][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.28.38:368][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.28.38:373][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.38:403][468]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.28.38:405][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.28.38:409][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.09.07-02.28.38:432][470]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.09.07-02.29.20:695][923]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.29.20:720][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.29.20:720][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.29.20:720][923]PIE: New page: PIE session: PuzzleExampleMap (Sep 6, 2020, 12:29:20 PM)
+[2020.09.07-02.29.20:720][923]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.29.20:728][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007811s)
+[2020.09.07-02.29.20:729][923]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.29.20:729][923]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2020.09.07-02.29.20:729][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008998s)
+[2020.09.07-02.29.20:766][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.29.20:771][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.29.20:771][923]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.29.20:771][923]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.29.20:784][923]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.29.20:792][923]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.29.20:793][923]LogInit: FAudioDevice initialized.
+[2020.09.07-02.29.20:801][923]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.29.20:801][923]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.29.20
+[2020.09.07-02.29.20:801][923]LogWorld: Bringing up level for play took: 0.000418
+[2020.09.07-02.29.20:802][923]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.09.07-02.29.20:844][923]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.043
+[2020.09.07-02.29.20:844][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.29.22:874][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.22:874][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.22:874][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.29.22:874][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.29.22:874][ 99]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.29.22:874][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.22:875][ 99]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.29.22:875][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.22:883][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.29.22:883][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.29.22:887][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.22:919][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.22:922][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.29.22:926][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.09.07-02.29.22:980][102]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.09.07-02.29.26:866][460]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.29.26:876][460]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest
+[2020.09.07-02.29.26:910][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.09.07-02.29.26:913][460]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.29.26:913][460]LightingResults: New page: Lighting Build
+[2020.09.07-02.29.26:914][460]LoadErrors: New page: Loading map: NicholePuzzleExampleTest.umap
+[2020.09.07-02.29.26:914][460]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.29.26:914][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.26:914][460]MapCheck: New page: Map Check
+[2020.09.07-02.29.26:914][460]LightingResults: New page: Lighting Build
+[2020.09.07-02.29.26:945][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.09.07-02.29.26:948][460]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.29.26:983][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.29.27:008][460]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.29.27:008][460]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2020.09.07-02.29.27:008][460]LogFileHelpers: Loading map 'NicholePuzzleExampleTest' took 0.095
+[2020.09.07-02.29.28:132][588]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.29.28:160][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.29.28:160][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.29.28:160][588]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:29:28 PM)
+[2020.09.07-02.29.28:160][588]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.29.28:170][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010068s)
+[2020.09.07-02.29.28:171][588]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.29.28:171][588]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2020.09.07-02.29.28:171][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.011041s)
+[2020.09.07-02.29.28:202][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.29.28:204][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.29.28:204][588]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.29.28:204][588]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.29.28:216][588]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.29.28:225][588]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.29.28:226][588]LogInit: FAudioDevice initialized.
+[2020.09.07-02.29.28:232][588]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.29.28:233][588]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.29.28
+[2020.09.07-02.29.28:233][588]LogWorld: Bringing up level for play took: 0.000450
+[2020.09.07-02.29.28:233][588]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.09.07-02.29.28:276][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.29.28:276][588]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest -0.611
+[2020.09.07-02.29.28:277][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.29.29:230][700]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.29.29:230][700]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.29.29:230][700]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.29.29:230][700]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.29.29:231][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.29:231][700]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.29:267][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.09.07-02.29.29:280][700]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.29.29:280][700]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.29.29:284][700]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.29.29
+[2020.09.07-02.29.29:284][700]LogWorld: Bringing up level for play took: 0.002820
+[2020.09.07-02.29.29:284][700]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.29.29:320][700]LogLoad: Took 0.090218 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.29.48:373][985]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.48:373][985]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.48:373][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.29.48:373][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.29.48:373][985]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.29.48:373][985]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.48:373][985]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.29.48:374][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.48:377][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.29.48:377][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.29.48:382][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.48:414][985]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.48:416][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.29.48:420][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.09.07-02.29.48:479][991]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.09.07-02.29.53:982][649]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.29.54:012][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.29.54:012][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.29.54:012][649]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:29:54 PM)
+[2020.09.07-02.29.54:012][649]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.29.54:020][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007997s)
+[2020.09.07-02.29.54:021][649]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.29.54:021][649]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2020.09.07-02.29.54:021][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.009216s)
+[2020.09.07-02.29.54:055][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.29.54:058][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.29.54:058][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.29.54:058][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.29.54:058][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.29.54:058][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.29.54:058][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.29.54:058][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.29.54:058][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.29.54:058][649]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.29.54:059][649]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.29.54:071][649]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.29.54:079][649]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.29.54:080][649]LogInit: FAudioDevice initialized.
+[2020.09.07-02.29.54:090][649]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.29.54:090][649]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.29.54
+[2020.09.07-02.29.54:090][649]LogWorld: Bringing up level for play took: 0.000461
+[2020.09.07-02.29.54:091][649]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.09.07-02.29.54:133][649]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.29.54:134][649]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest -0.754
+[2020.09.07-02.29.54:134][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.29.55:806][847]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.29.55:806][847]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.29.55:806][847]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.29.55:806][847]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.29.55:807][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.55:807][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.29.55:842][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.09.07-02.29.55:855][847]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.29.55:855][847]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.29.55:857][847]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.29.55
+[2020.09.07-02.29.55:857][847]LogWorld: Bringing up level for play took: 0.001870
+[2020.09.07-02.29.55:858][847]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.29.55:893][847]LogLoad: Took 0.087557 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.31.00:493][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.00:493][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.00:493][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.31.00:494][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.31.00:494][566]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.31.00:494][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.00:494][566]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.31.00:495][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.31.00:498][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.31.00:498][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.31.00:503][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.31.00:533][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.00:535][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.31.00:540][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.09.07-02.31.00:598][572]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.09.07-02.31.02:455][794]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.31.02:482][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.31.02:483][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.31.02:483][794]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:31:02 PM)
+[2020.09.07-02.31.02:483][794]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.31.02:490][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007700s)
+[2020.09.07-02.31.02:491][794]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.31.02:492][794]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2020.09.07-02.31.02:492][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.008917s)
+[2020.09.07-02.31.02:525][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.31.02:527][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.31.02:527][794]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.31.02:527][794]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.31.02:539][794]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.31.02:540][794]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.31.02:548][794]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.31.02:549][794]LogInit: FAudioDevice initialized.
+[2020.09.07-02.31.02:554][794]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.31.02:554][794]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.31.02
+[2020.09.07-02.31.02:554][794]LogWorld: Bringing up level for play took: 0.000459
+[2020.09.07-02.31.02:554][794]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.09.07-02.31.02:598][794]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.31.02:598][794]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest -0.289
+[2020.09.07-02.31.02:598][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.31.05:384][126]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.31.05:385][126]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.31.05:385][126]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.31.05:385][126]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.31.05:386][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.31.05:386][126]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.05:421][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.09.07-02.31.05:435][126]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.31.05:435][126]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.31.05:438][126]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.31.05
+[2020.09.07-02.31.05:438][126]LogWorld: Bringing up level for play took: 0.002384
+[2020.09.07-02.31.05:438][126]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.31.05:474][126]LogLoad: Took 0.089584 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.31.29:258][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.29:259][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.29:259][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.31.29:259][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.31.29:259][979]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.31.29:259][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.29:259][979]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.31.29:260][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.31.29:264][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.31.29:264][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.31.29:269][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.31.29:301][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.31.29:304][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.31.29:308][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.09.07-02.31.29:360][984]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.09.07-02.31.31:048][176]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest
+[2020.09.07-02.32.30:693][194]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.30:693][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.33:649][511]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.32.33:672][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.33:672][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.32.33:672][511]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:32:33 PM)
+[2020.09.07-02.32.33:673][511]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.32.33:681][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008081s)
+[2020.09.07-02.32.33:682][511]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.32.33:682][511]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2020.09.07-02.32.33:682][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.009229s)
+[2020.09.07-02.32.33:720][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.32.33:722][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.32.33:722][511]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.32.33:722][511]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.32.33:735][511]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.32.33:743][511]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.32.33:744][511]LogInit: FAudioDevice initialized.
+[2020.09.07-02.32.33:750][511]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.32.33:751][511]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.32.33
+[2020.09.07-02.32.33:751][511]LogWorld: Bringing up level for play took: 0.000453
+[2020.09.07-02.32.33:751][511]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.09.07-02.32.33:794][511]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.32.33:794][511]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest 0.907
+[2020.09.07-02.32.33:794][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.34:531][597]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.32.34:531][597]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.32.34:531][597]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.32.34:531][597]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.34:532][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.34:532][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.34:567][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.09.07-02.32.34:581][597]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.32.34:581][597]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.32.34:584][597]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.32.34
+[2020.09.07-02.32.34:584][597]LogWorld: Bringing up level for play took: 0.002482
+[2020.09.07-02.32.34:584][597]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.32.34:620][597]LogLoad: Took 0.089114 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.32.37:087][877]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest
+[2020.09.07-02.32.44:299][704]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.44:299][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.46:644][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.46:644][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.46:644][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.46:644][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.32.46:645][965]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.32.46:645][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.46:645][965]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.46:646][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.46:658][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.32.46:658][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.46:663][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.46:695][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.46:697][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.32.46:702][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.09.07-02.32.46:749][970]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.09.07-02.32.47:887][106]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.32.47:910][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.47:910][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.32.47:910][106]PIE: New page: PIE session: NicholePuzzleExampleTest (Sep 6, 2020, 12:32:47 PM)
+[2020.09.07-02.32.47:910][106]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.32.47:919][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008973s)
+[2020.09.07-02.32.47:920][106]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.32.47:920][106]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2020.09.07-02.32.47:920][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest to /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest (0.010118s)
+[2020.09.07-02.32.47:957][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.32.47:959][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.32.47:959][106]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.32.47:959][106]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.32.47:971][106]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.32.47:971][106]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.32.47:971][106]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.32.47:971][106]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.32.47:972][106]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.32.47:972][106]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.32.47:972][106]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.32.47:972][106]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.32.47:972][106]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.32.47:979][106]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.32.47:980][106]LogInit: FAudioDevice initialized.
+[2020.09.07-02.32.47:990][106]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.32.47:990][106]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest.NicholePuzzleExampleTest up for play (max tick rate 0) at 2020.09.06-19.32.47
+[2020.09.07-02.32.47:990][106]LogWorld: Bringing up level for play took: 0.000447
+[2020.09.07-02.32.47:991][106]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.09.07-02.32.48:034][106]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.07-02.32.48:034][106]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest -0.853
+[2020.09.07-02.32.48:034][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.48:931][211]LogNet: Browse: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.32.48:931][211]LogLoad: LoadMap: /Game/PuzzleBP/Maps/PuzzleExampleMap
+[2020.09.07-02.32.48:931][211]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_NicholePuzzleExampleTest
+[2020.09.07-02.32.48:932][211]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.48:932][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.48:933][211]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.48:968][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.09.07-02.32.48:981][211]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.32.48:982][211]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.32.48:985][211]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.32.48
+[2020.09.07-02.32.48:985][211]LogWorld: Bringing up level for play took: 0.003245
+[2020.09.07-02.32.48:986][211]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.07-02.32.49:021][211]LogLoad: Took 0.090217 seconds to LoadMap(/Game/PuzzleBP/Maps/PuzzleExampleMap)
+[2020.09.07-02.32.56:016][ 47]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.56:016][ 47]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.56:016][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.56:017][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.32.56:017][ 47]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.32.56:017][ 47]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.56:017][ 47]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.56:018][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.56:023][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.32.56:024][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest' with GeneratedClass '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest:PersistentLevel.NicholePuzzleExampleTest'
+[2020.09.07-02.32.56:028][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.56:058][ 47]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.32.56:060][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.32.56:064][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.07-02.32.56:122][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.09.07-02.33.17:850][645]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.33.17:861][645]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap
+[2020.09.07-02.33.17:892][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.09.07-02.33.19:344][645]LogSlate: Window 'Save Content' being destroyed
+[2020.09.07-02.33.19:388][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.09.07-02.33.19:607][645]LogSavePackage: Moving '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Saved/NicholePuzzleExampleTest0B3A4D0747424297D6BB249F643D4B3D.tmp' to '../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap'
+[2020.09.07-02.33.19:633][645]LogFileHelpers: Saving map 'NicholePuzzleExampleTest' took 0.278
+[2020.09.07-02.33.19:634][645]Cmd: MAP LOAD FILE="../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.33.19:634][645]LightingResults: New page: Lighting Build
+[2020.09.07-02.33.19:635][645]LoadErrors: New page: Loading map: PuzzleExampleMap.umap
+[2020.09.07-02.33.19:635][645]LogWorld: UWorld::CleanupWorld for NicholePuzzleExampleTest, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.33.19:635][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.33.19:635][645]MapCheck: New page: Map Check
+[2020.09.07-02.33.19:635][645]LightingResults: New page: Lighting Build
+[2020.09.07-02.33.19:666][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.09.07-02.33.19:669][645]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.33.19:702][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.09.07-02.33.19:726][645]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.33.19:726][645]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.09.07-02.33.19:726][645]LogFileHelpers: Loading map 'PuzzleExampleMap' took 0.093
+[2020.09.07-02.33.19:766][645]AssetCheck: New page: Asset Save: NicholePuzzleExampleTest
+[2020.09.07-02.33.19:766][645]LogContentValidation: Display: Validating World /Game/PuzzleBP/Maps/NicholePuzzleExampleTest.NicholePuzzleExampleTest
+[2020.09.07-02.33.19:778][645]LogAIModule: Creating AISystem for world NicholePuzzleExampleTest
+[2020.09.07-02.33.21:392][833]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.07-02.33.21:420][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.33.21:420][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.33.21:420][833]PIE: New page: PIE session: PuzzleExampleMap (Sep 6, 2020, 12:33:21 PM)
+[2020.09.07-02.33.21:420][833]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.33.21:431][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010493s)
+[2020.09.07-02.33.21:432][833]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.09.07-02.33.21:432][833]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2020.09.07-02.33.21:432][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.011478s)
+[2020.09.07-02.33.21:464][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.33.21:466][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.33.21:466][833]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.33.21:466][833]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: Name: Headphones (Realtek(R) Audio)
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: Is Default: Yes
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: Channel Order:
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.33.21:479][833]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.33.21:487][833]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.09.07-02.33.21:488][833]LogInit: FAudioDevice initialized.
+[2020.09.07-02.33.21:491][833]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.07-02.33.21:492][833]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2020.09.06-19.33.21
+[2020.09.07-02.33.21:492][833]LogWorld: Bringing up level for play took: 0.000416
+[2020.09.07-02.33.21:492][833]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.09.07-02.33.21:535][833]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.649
+[2020.09.07-02.33.21:536][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.33.22:822][985]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.33.22:832][985]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.07-02.33.22:851][985]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.07-02.33.22:852][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.33.22:852][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.33.22:852][985]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.09.07-02.33.22:852][985]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.33.22:852][985]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.33.22:853][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.33.22:862][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.33.22:862][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.09.07-02.33.22:867][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.33.22:897][985]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.07-02.33.22:900][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.33.22:904][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.09.07-02.33.22:927][987]LogPlayLevel: Display: Destroying online subsystem :Context_64
