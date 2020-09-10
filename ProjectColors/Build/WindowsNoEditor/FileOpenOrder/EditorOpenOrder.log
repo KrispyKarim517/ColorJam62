@@ -1968,307 +1968,255 @@
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1968
 "../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Intermediate/AssetRegistryCache/311563bb.bin" 1969
 "../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Intermediate/AssetRegistryCache/c90e3f55.bin" 1970
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/MainMenu.umap" 1971
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1972
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1973
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1974
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1975
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1976
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1977
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1978
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Intermediate/AssetRegistryCache/80733c15.bin" 1979
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholePuzzleExampleTest.umap" 1980
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/NicholeUITests.umap" 1981
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" 1982
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1983
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/PuzzleOverview.uasset" 1984
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset" 1971
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/MainGame.umap" 1972
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/MainGame_BuiltData.uasset" 1973
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/hidden.uasset" 1974
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1975
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1976
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1977
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1978
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1979
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1980
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1981
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Intermediate/AssetRegistryCache/80733c15.bin" 1982
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/MainMenu.umap" 1983
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1984
 "../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset" 1985
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset" 1986
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset" 1987
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzlePlayerCharacter.uasset" 1988
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzlePlayerController.uasset" 1989
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part1-Overview.uasset" 1990
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part2-BlockBlueprint.uasset" 1991
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part2b-BlockBLueprintComponents.uasset" 1992
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part3-GridBlueprint.uasset" 1993
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part4-GridBluepint2.uasset" 1994
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part5-GameMode.uasset" 1995
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part6-Controller.uasset" 1996
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part7-LevelBlueprint.uasset" 1997
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Tutorial/Part8-EverythingElse.uasset" 1998
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1999
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 2000
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 2001
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 2002
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 2003
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 2004
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2005
-"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 2006
-"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 2007
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 2008
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 2009
-"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 2010
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 2011
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 2012
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 2013
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 2014
-"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 2015
-"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 2016
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 2017
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 2018
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 2019
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 2020
-"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 2021
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 2022
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 2023
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 2024
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 2025
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 2026
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 2027
-"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 2028
-"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 2029
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 2030
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 2031
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 2032
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 2033
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 2034
-"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 2035
-"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 2036
-"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 2037
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 2038
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 2039
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 2040
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 2041
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 2042
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 2043
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 2044
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 2045
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 2046
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 2047
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 2048
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 2049
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 2050
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 2051
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 2052
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 2053
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 2054
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 2055
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 2056
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 2057
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 2058
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 2059
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 2060
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/GameOver-Lose.uasset" 2061
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/GameOver-TimeLoss.uasset" 2062
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/GameOver.uasset" 2063
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/MainMenu.uasset" 2064
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/NumberOfGuesses.uasset" 2065
-"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 2066
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 2067
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 2068
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 2069
-"../../../Engine/Config//BaseEngine.ini" 2070
-"../../../Engine/Config/Unix/UnixEngine.ini" 2071
-"../../../Engine/Config/Linux/LinuxEngine.ini" 2072
-"../../../Engine/Config/LinuxAArch64/LinuxAArch64Engine.ini" 2073
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 2074
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 2075
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 2076
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 2077
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_blue.uasset" 2078
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_darkblue.uasset" 2079
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_lightblue.uasset" 2080
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_orange.uasset" 2081
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_red.uasset" 2082
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_yellow.uasset" 2083
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Title.uasset" 2084
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/WhiteSquare.uasset" 2085
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_352C6FD5412000E42C9B28AC8C0DC__0ECBF2EC22F01EFBAC08A21AF6FF674D4DD2E151.udd" 2086
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_5634123545CDCECF341D48A1C3CB6__DE474F2583C57D93C2D225714B9740E77952BB2E.udd" 2087
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_5634123545CDCECF341D48A1C3CB6__3219D81E188E7A0B66AFAEA40DE39EF340ED4738.udd" 2088
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_5634123545CDCECF341D48A1C3CB6__4C9224A1FA5104EC7EEE7E7ECC2D901E5F0EF55E.udd" 2089
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_5634123545CDCECF341D48A1C3CB6__FF4CCF1642F83C8FB47E4B5417F1852ED17E0936.udd" 2090
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2E22FFB0470D827DC2DF8FA356211__CA1B9F2F1E944020F5B586447E178BB094BACA92.udd" 2091
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2E22FFB0470D827DC2DF8FA356211__A3BF0D3D669C7E34F700BA078A1F560E3006639E.udd" 2092
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2E22FFB0470D827DC2DF8FA356211__C6B7DD77098EF8D2E10134311E1F783F1AD89A35.udd" 2093
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2E22FFB0470D827DC2DF8FA356211__00B5682929A2552316343380810D571900539177.udd" 2094
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__E8078F21705DD14C527F70A72E9A2D812404629F.udd" 2095
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__C4B58B7271744A48A44F3E7102C11598EA84E7F8.udd" 2096
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__0D08DD39201BA1BF07E7C8D125F96B68BB6794E8.udd" 2097
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__DAF02A8332F503C30EBE414CA5710F6C766F6098.udd" 2098
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__B974C507DDB1269A4B17603F82CC263772DF1C71.udd" 2099
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__614FC98D74D8E568259BDFC20975ACCDCC3378DB.udd" 2100
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__8845C1BCDEE41330AF6A7E3A5DBCBA899D12D268.udd" 2101
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__2D71DE248354FC7DD8D0EF5879130471579033D6.udd" 2102
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__2614FA11053504AE2FEF3C33D48053FA9435E1B5.udd" 2103
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__D53BF11806E6489D80674CD520863C35118468C6.udd" 2104
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__D03306BE99AA1806D3EDDDCDB1144A5E067650CA.udd" 2105
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__81B430D8E2664FFE469B859C7A00334B58C02E5A.udd" 2106
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__466A28EAA28677F9E8CEF1E5C41C93264C016ADC.udd" 2107
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__F23D20CD3BD8A07915743AE328339E7ED0775A3B.udd" 2108
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__BB23EDE125080BB853FC6D8146FB05840476BD4C.udd" 2109
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__4DC210AF8FA5872A7F8AE40BDC289E9A0D7C39C6.udd" 2110
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__259612E7B2B03442061DF3852D34F173799CA9C2.udd" 2111
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__910BA9FDBA03DF20AF52BA98F2C883C7327C530E.udd" 2112
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__69C8B3B29255FA7EC4D8C751680BD3DF711F66EB.udd" 2113
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__943A7E956775216DDCBA4B2489EA453C99C6AE1A.udd" 2114
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2115
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2116
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2117
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2118
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Geometry/Meshes/hexagon.uasset" 2119
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Puzzle/Meshes/BlueMaterial.uasset" 2120
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Puzzle/Meshes/BaseMaterial.uasset" 2121
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/GameOver.uasset" 2122
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_black.uasset" 2123
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_quit_normal.uasset" 2124
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_quit_pressed.uasset" 2125
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_restart_normal.uasset" 2126
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_restart_pressed.uasset" 2127
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/lava.uasset" 2128
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/Minecraft_lava.uasset" 2129
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/Mountain_Breeze.uasset" 2130
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/Cold.uasset" 2131
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 2132
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/hexmask.uasset" 2133
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ice2.uasset" 2134
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/hidden.uasset" 2135
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/Hot.uasset" 2136
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/fire2.uasset" 2137
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/SlightlyCold.uasset" 2138
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ice1.uasset" 2139
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/SlightlyHot.uasset" 2140
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/fire1.uasset" 2141
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/VeryCold.uasset" 2142
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ice3.uasset" 2143
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/VeryHot.uasset" 2144
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/fire3.uasset" 2145
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/6/STATICMESH_A9B55814188440DA96CF4A9D318BC1C5_228332BAE0224DD294E232B87D83948FQU__5FAD69888A0E4D68F360EBB4B93826F9FCD7564E.udd" 2146
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_81FCEE6D4D3E343C3__21A1149582997214CAC0061079B7F49A76ECE218.udd" 2147
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_81FCEE6D4D3E343C3F77B992FF24009__A281969173443BC598350CE0BD2F6675600B22EE.udd" 2148
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_B39BEF97439878ACA53D24BB0EC6AFA9.udd" 2149
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/2/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_CED87A6A4DA82107126B2A9BDB2B6345.udd" 2150
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_5FD4C22D44273F4335089B9EF2D8D72D.udd" 2151
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_176BAD124246DF01F7F043889765900__959798878A42844AC76D4C40317C175A3A437123.udd" 2152
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A665E922409DD592A080D403104EDEA6EDE76DD5.udd" 2153
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_F22BBFFB46C0FA410D5D37BB130A64D__ABEDC39D975CC21220FDAA239D40DC938DDC572C.udd" 2154
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___778529F10C527260F35192CDBE5B880ED0E6A7C9.udd" 2155
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_0339782F480CCD2663C2909582C3818__8F48A97A54F9E6FC20CF96398A2EA6816DF040AE.udd" 2156
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/8/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5B53AD90DE8EF5C18B18043D417BA53F729D80EB.udd" 2157
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_C33BF1CF419394666F8D7A99C49CC11__FBAED920FF3F433408CFD270F21B25B3BEBB6104.udd" 2158
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___16903CDF4BBCF046D8B6579002C9AEB22D9B17DB.udd" 2159
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_D50768284A13135CDF19ACA54C0B110__9013CE250C169AEADA0F981ADCE22A4F9440A807.udd" 2160
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FC4685B2FC5B8DEC161C358242B4D38F033787C6.udd" 2161
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/1/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___6C64C5C36754C898E6D315114A45CD8D8D35D2E0.udd" 2162
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_AA1216D249A9C7E3F3FB68BB47B0EE6__D0678CCCECDF13692472144643C3B9E912F8EDB1.udd" 2163
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_53F5EB134EE1A9801AB4139FBCCD5__B954571F64B68E6862D1CE99903D012968771BB3.udd" 2164
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___553DA64D964EC860DE75E2891DCD42711721CF64.udd" 2165
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_8B77FDF247727B831D0CD9811DD52__E97AFAE9DA015E0CF7B3F9946942E8D88C0147CB.udd" 2166
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/4/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_8B77FDF247727B831D0CD9811DD52__860C231275A5A8D2FAC872F1E16C647EEEBCEE0B.udd" 2167
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_8B77FDF247727B831D0CD9811DD52__F693893B2F5E3DDD0B7809F8F4D79AB8A80694C1.udd" 2168
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/4/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_8B77FDF247727B831D0CD9811DD52__CC6810C336DD3C94049F5229AE7CD107939AC924.udd" 2169
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 2170
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2171
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2172
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2173
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2174
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2175
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2176
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2177
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2178
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2179
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2180
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2181
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2182
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2183
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2184
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C9B581024F4AE1391173D5A14912C__E7C92DD7D601640E9ECF760E20AC7FD4B34E6F98.udd" 2185
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C9B581024F4AE1391173D5A14912C__078A75AE0FA9D8BB20EEE21BB69D8F2A47F0E01C.udd" 2186
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C9B581024F4AE1391173D5A14912C__9DA8767E7476D54A2427B623D9F49ED6B96BCAF7.udd" 2187
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C9B581024F4AE1391173D5A14912C__31B4C714A0C36EDC7F65508EDB2C23B88A0BFF3F.udd" 2188
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_D7C52D5A43CF1F461C1F41892D8D3__1C9936F13D9C355323E2A1D734915D4E20BE3A15.udd" 2189
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_D7C52D5A43CF1F461C1F41892D8D3__45D603C4E0495A8346C2D3727EB6625CBD283B02.udd" 2190
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_D7C52D5A43CF1F461C1F41892D8D3__5510D3A1929CB08434CE3135345E91D23CDB8111.udd" 2191
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_D7C52D5A43CF1F461C1F41892D8D3__06DF3808142278C82B18DF27AE5A7338E97E0574.udd" 2192
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_391BCB0840513267AD4BC6A11BCF8__D3BFAC6C92388D9708AC9A793F9231F98D5AFE28.udd" 2193
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_391BCB0840513267AD4BC6A11BCF8__D892F96F9B0161B01583501CFFBB50653D4E935E.udd" 2194
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_391BCB0840513267AD4BC6A11BCF8__8B24E56F69D3071F9FFAD4F6AD114702140DB977.udd" 2195
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_391BCB0840513267AD4BC6A11BCF8__421100459429F1C0FFBA9DD0ABB68A5F4E6F3804.udd" 2196
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7DB793D5420C5D691B7280AE12D58__7D9D15ED4BA726C740A240D5DC0BBBECF75F245C.udd" 2197
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7DB793D5420C5D691B7280AE12D58__23DB99B58AA3AFE164A6653DB9362BA4F55EACD1.udd" 2198
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_67258A6D449CF32F018199AA9446A__157D6041AAB7E67D95405E812B6DA32BA5FB6BB2.udd" 2199
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_67258A6D449CF32F018199AA9446A__3C5DEC3548C0133383A1950B0E3991AE589C24E5.udd" 2200
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_67258A6D449CF32F018199AA9446A__FD0ED808A79F309C40A3A6DD81FA1AD4F1AB1AAF.udd" 2201
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_67258A6D449CF32F018199AA9446A__B3BAC28AB9920E66D1FC8BB226BFA9FB28B77FB3.udd" 2202
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2203
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2204
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2205
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2206
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Timer/TimerMaterial.uasset" 2207
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 2208
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 2209
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 2210
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 2211
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 2212
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 2213
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 2214
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 2215
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Timer/TimeMaterialSetter.uasset" 2216
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Timer/TimerAnimation.uasset" 2217
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/guess.uasset" 2218
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Guesses.uasset" 2219
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Time.uasset" 2220
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_21AEB5DB4EA3F88C3285A6B5F29CE__5846448AAEDDACF88A6C099EC50AE6A2B9B49C69.udd" 2221
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_26F511074F8B6D0AE542CA8550487__BDD4B46FE63761B5572BC0F3FD51B5716C729776.udd" 2222
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_21AEB5DB4EA3F88C3285A6B5F29CE__51C190F740F88761158F65093F57C298EFABDEE9.udd" 2223
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_26F511074F8B6D0AE542CA8550487__4ADB9B710BDD1A660FB730EFB3B3F7A5C6CCE7CF.udd" 2224
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_21AEB5DB4EA3F88C3285A6B5F29CE__AF0CEE85CDF27612084CEFB65A1528037FACFBE9.udd" 2225
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_26F511074F8B6D0AE542CA8550487__4A5671D54F40CC1421EA1F0D361F469EDBBEFCC0.udd" 2226
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_26F511074F8B6D0AE542CA8550487__5CA7DDAF18E63AE3381137EA268FB318DADDACBC.udd" 2227
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_21AEB5DB4EA3F88C3285A6B5F29CE__A219931199F72B3B50B0506D55D097DB39C70907.udd" 2228
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_41BF3F6B4352E78611CE5893B074D__2C9C13F6C50526F621E8BC03F2444B9BE392828A.udd" 2229
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_41BF3F6B4352E78611CE5893B074D__B62C0A18C6ED567028AFA613D94C357113D6FECC.udd" 2230
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_41BF3F6B4352E78611CE5893B074D__44D5872557DD57D6495F423253E02B32518789DA.udd" 2231
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_41BF3F6B4352E78611CE5893B074D__CEC258965817BFAC7A763E5970A8DEF0A18DB85B.udd" 2232
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_F0B834CA4094063AD30B079C01094__DE5CF4FB07058C0C3C60799E352F74E523BA33A7.udd" 2233
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___158003F4D891990F80648B2D3D512364FB0FEF90.udd" 2234
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Restart.uasset" 2235
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7BDF1B4348AA87FE0832B5BB87E00__C8D9038612009AA86853070AA7DC2336C3D40C6C.udd" 2236
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7BDF1B4348AA87FE0832B5BB87E00__9A0E6328FFB37CA53AE35D7A65CCCB9AB08A2BB1.udd" 2237
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7BDF1B4348AA87FE0832B5BB87E00__95F875EE60B1D62C9D3BC19F40609EEF0FBD7784.udd" 2238
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7BDF1B4348AA87FE0832B5BB87E00__8FF8D8F4F9D153FA0CC486619AD1E5BD5099D4D8.udd" 2239
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Quit.uasset" 2240
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2341CCCB46E8123058A394810AFD6__996D4D1AAA03B309E7B3421B62F7261F1C4D1D41.udd" 2241
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_white.uasset" 2242
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2341CCCB46E8123058A394810AFD6__B2B2FA34DC8922CCE89406D7A19D1786F1D9B44F.udd" 2243
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2341CCCB46E8123058A394810AFD6__AE612121A666C2647CB725E71BA29895CD4396C1.udd" 2244
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2341CCCB46E8123058A394810AFD6__307309683EAEF33855B8E726BFD548E497CCBC90.udd" 2245
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_0F0E00C3422A57510FD01E9603E2E__5D7DBB7930D056BE57CEFBF120B872F387B391DA.udd" 2246
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_0F0E00C3422A57510FD01E9603E2E__66CC62BB934A29A884758D1AEA71BEDC46175E87.udd" 2247
-"../../../Engine/Content/Maps/Entry.umap" 2248
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2249
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2250
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2251
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2252
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2253
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2254
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2255
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2256
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2257
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Maps/PuzzleExampleMap_BuiltData.uasset" 2258
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2259
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2260
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_6608D47D4F0216E2607BEB99F88FE__8C64EE5FBFB321D3B8493BC29E5060B924440375.udd" 2261
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/3/TEXTURE_564290F8998644E39A2118D5C683187B_DXT1_17D05C894BBC7CC00EA5C19D3C432579__3B8A41B8102BBC23406A0FCFC63BDB19CA29B195.udd" 2262
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/0/TEXTURE_564290F8998644E39A2118D5C683187B_G8_BE3DFEC04FD99B5A235B22B58C253599_0__7467C5AA7243B1C893C1BB36EC6219811C6B13A3.udd" 2263
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_50C1CFD042FB617F305B1DB647108__B540C68D76B31A076D0894F132349110794292F5.udd" 2264
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Geometry/Meshes/1M_Cube.uasset" 2265
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Geometry/Meshes/CubeMaterial.uasset" 2266
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/DemonSpawn.uasset" 2267
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_10EC6F5E43CD30BE0F4A208E9EA71AF3.udd" 2268
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/volcano.uasset" 2269
-"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/2/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CB25D5FB3091ED64276489767F46BCA92A0CEE69.udd" 2270
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Puzzle/Meshes/PuzzleCube.uasset" 2271
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Puzzle/Meshes/OrangeMaterial.uasset" 2272
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Geometry/Meshes/TemplateFloor.uasset" 2273
-"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2274
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset" 1986
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzlePlayerCharacter.uasset" 1987
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/PuzzleBP/Blueprints/PuzzlePlayerController.uasset" 1988
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1989
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1990
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1991
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1992
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1993
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1994
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1995
+"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 1996
+"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 1997
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1998
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1999
+"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 2000
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 2001
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 2002
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 2003
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 2004
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 2005
+"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 2006
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 2007
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 2008
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 2009
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 2010
+"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 2011
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 2012
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 2013
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 2014
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 2015
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 2016
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 2017
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 2018
+"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 2019
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 2020
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 2021
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 2022
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 2023
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 2024
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 2025
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 2026
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 2027
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 2028
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 2029
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 2030
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 2031
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 2032
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 2033
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 2034
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 2035
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 2036
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 2037
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 2038
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 2039
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 2040
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 2041
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 2042
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 2043
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 2044
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 2045
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 2046
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 2047
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 2048
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 2049
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 2050
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/GameOver-Lose.uasset" 2051
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/GameOver-TimeLoss.uasset" 2052
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/GameOver.uasset" 2053
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/MainMenu.uasset" 2054
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Widgets/NumberOfGuesses.uasset" 2055
+"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 2056
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 2057
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 2058
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 2059
+"../../../Engine/Config//BaseEngine.ini" 2060
+"../../../Engine/Config/Unix/UnixEngine.ini" 2061
+"../../../Engine/Config/Linux/LinuxEngine.ini" 2062
+"../../../Engine/Config/LinuxAArch64/LinuxAArch64Engine.ini" 2063
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 2064
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 2065
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 2066
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 2067
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_blue.uasset" 2068
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_darkblue.uasset" 2069
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_lightblue.uasset" 2070
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_orange.uasset" 2071
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_red.uasset" 2072
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_yellow.uasset" 2073
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Title.uasset" 2074
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/WhiteSquare.uasset" 2075
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_352C6FD5412000E42C9B28AC8C0DC__0ECBF2EC22F01EFBAC08A21AF6FF674D4DD2E151.udd" 2076
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_5634123545CDCECF341D48A1C3CB6__0C1E4704EFC4FB21250763492A36669398D77BF1.udd" 2077
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2E22FFB0470D827DC2DF8FA356211__3F987E8B37631271DECD5F3800A351459BC57636.udd" 2078
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2E22FFB0470D827DC2DF8FA356211__ADA872CD97866B38DD64562E17D2E6A5199BF243.udd" 2079
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_2E22FFB0470D827DC2DF8FA356211__1C56E8A71097E84CFD17B3DBAB6C94FDE4966848.udd" 2080
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__E8078F21705DD14C527F70A72E9A2D812404629F.udd" 2081
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__0D08DD39201BA1BF07E7C8D125F96B68BB6794E8.udd" 2082
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__C4B58B7271744A48A44F3E7102C11598EA84E7F8.udd" 2083
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_81753AC042D6A0CACAA4438D5A0AC__DAF02A8332F503C30EBE414CA5710F6C766F6098.udd" 2084
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__B974C507DDB1269A4B17603F82CC263772DF1C71.udd" 2085
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__614FC98D74D8E568259BDFC20975ACCDCC3378DB.udd" 2086
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__8845C1BCDEE41330AF6A7E3A5DBCBA899D12D268.udd" 2087
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_72F222C54C623235F4FC58A88FBEC__2D71DE248354FC7DD8D0EF5879130471579033D6.udd" 2088
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__2614FA11053504AE2FEF3C33D48053FA9435E1B5.udd" 2089
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__D53BF11806E6489D80674CD520863C35118468C6.udd" 2090
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__D03306BE99AA1806D3EDDDCDB1144A5E067650CA.udd" 2091
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_79331E76483E2C14BB7C699F65BF3__81B430D8E2664FFE469B859C7A00334B58C02E5A.udd" 2092
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__466A28EAA28677F9E8CEF1E5C41C93264C016ADC.udd" 2093
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__BB23EDE125080BB853FC6D8146FB05840476BD4C.udd" 2094
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__4DC210AF8FA5872A7F8AE40BDC289E9A0D7C39C6.udd" 2095
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_169468A345FF5A9944DAA0886EAEC__F23D20CD3BD8A07915743AE328339E7ED0775A3B.udd" 2096
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__259612E7B2B03442061DF3852D34F173799CA9C2.udd" 2097
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__943A7E956775216DDCBA4B2489EA453C99C6AE1A.udd" 2098
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__910BA9FDBA03DF20AF52BA98F2C883C7327C530E.udd" 2099
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_9016D59B4F58B5EE84F3D5A990DFF__69C8B3B29255FA7EC4D8C751680BD3DF711F66EB.udd" 2100
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2101
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2102
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2103
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2104
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Geometry/Meshes/hexagon.uasset" 2105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 2106
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/hexmask.uasset" 2107
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/GameOver.uasset" 2108
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_black.uasset" 2109
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_quit_normal.uasset" 2110
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_quit_pressed.uasset" 2111
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_restart_normal.uasset" 2112
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_restart_pressed.uasset" 2113
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/lava.uasset" 2114
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/Minecraft_lava.uasset" 2115
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/Mountain_Breeze.uasset" 2116
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/BaseMaterial.uasset" 2117
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/Cold.uasset" 2118
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/ice2.uasset" 2119
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/Hot.uasset" 2120
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/fire2.uasset" 2121
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/SlightlyCold.uasset" 2122
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/ice1.uasset" 2123
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/SlightlyHot.uasset" 2124
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/fire1.uasset" 2125
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/VeryCold.uasset" 2126
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/ice3.uasset" 2127
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/VeryHot.uasset" 2128
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/fire3.uasset" 2129
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/volcano.uasset" 2130
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/ShaderMaterials/ShaderTextures/StarTexture.uasset" 2131
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_5FD4C22D44273F4335089B9EF2D8D72D.udd" 2132
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_B39BEF97439878ACA53D24BB0EC6AFA9.udd" 2133
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/2/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_CED87A6A4DA82107126B2A9BDB2B6345.udd" 2134
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/6/STATICMESH_A9B55814188440DA96CF4A9D318BC1C5_228332BAE0224DD294E232B87D83948FQU__5FAD69888A0E4D68F360EBB4B93826F9FCD7564E.udd" 2135
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_81FCEE6D4D3E343C3__21A1149582997214CAC0061079B7F49A76ECE218.udd" 2136
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_81FCEE6D4D3E343C3F77B992FF24009__A281969173443BC598350CE0BD2F6675600B22EE.udd" 2137
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_EE16928E456E78E74AA70F93C3E6E__B26B11CA872BC7EC9EBB8BF447F24F0F9F8DFCFA.udd" 2138
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_EE16928E456E78E74AA70F93C3E6E__140A0FE57AEE3E96D6FBE4AD4FDB3C8016F50FBA.udd" 2139
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_EE16928E456E78E74AA70F93C3E6E__1C665E23DF70A9A61615E39887DE95ADB3D3C03D.udd" 2140
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_EE16928E456E78E74AA70F93C3E6E__A6FB48234DB41DA5DBD9676E98A4E750C40D7570.udd" 2141
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___65F4D80577B8A02B069F5B80EC791283A8D7C63A.udd" 2142
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_176BAD124246DF01F7F043889765900__959798878A42844AC76D4C40317C175A3A437123.udd" 2143
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A665E922409DD592A080D403104EDEA6EDE76DD5.udd" 2144
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_F22BBFFB46C0FA410D5D37BB130A64D__ABEDC39D975CC21220FDAA239D40DC938DDC572C.udd" 2145
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___778529F10C527260F35192CDBE5B880ED0E6A7C9.udd" 2146
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_0339782F480CCD2663C2909582C3818__8F48A97A54F9E6FC20CF96398A2EA6816DF040AE.udd" 2147
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/8/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5B53AD90DE8EF5C18B18043D417BA53F729D80EB.udd" 2148
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_C33BF1CF419394666F8D7A99C49CC11__FBAED920FF3F433408CFD270F21B25B3BEBB6104.udd" 2149
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___16903CDF4BBCF046D8B6579002C9AEB22D9B17DB.udd" 2150
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_D50768284A13135CDF19ACA54C0B110__9013CE250C169AEADA0F981ADCE22A4F9440A807.udd" 2151
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FC4685B2FC5B8DEC161C358242B4D38F033787C6.udd" 2152
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_AA1216D249A9C7E3F3FB68BB47B0EE6__D0678CCCECDF13692472144643C3B9E912F8EDB1.udd" 2153
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___553DA64D964EC860DE75E2891DCD42711721CF64.udd" 2154
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/4/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_8B77FDF247727B831D0CD9811DD52__8570A1FC0002634CF87DD9BEE10F733CEF6242AA.udd" 2155
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 2156
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2157
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2158
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2159
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2160
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2161
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2162
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2163
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2164
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2165
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2166
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2167
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2168
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2169
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2170
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C9B581024F4AE1391173D5A14912C__0B29244D37082F753852AE9A512AE90EDA401B5A.udd" 2171
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_D7C52D5A43CF1F461C1F41892D8D3__D12E506F29DDBE2A42688E69D770003E15922DFB.udd" 2172
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_391BCB0840513267AD4BC6A11BCF8__063FA596CC337109ED43C5B38CF77E33B09A9D13.udd" 2173
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7DB793D5420C5D691B7280AE12D58__7D9D15ED4BA726C740A240D5DC0BBBECF75F245C.udd" 2174
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7DB793D5420C5D691B7280AE12D58__23DB99B58AA3AFE164A6653DB9362BA4F55EACD1.udd" 2175
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_67258A6D449CF32F018199AA9446A__B5DC0835142C477AC68DE8823230841A91F35350.udd" 2176
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_53F5EB134EE1A9801AB4139FBCCD5__B954571F64B68E6862D1CE99903D012968771BB3.udd" 2177
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3235DAD12000684423E157734F6C068ED599086D.udd" 2178
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2179
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2180
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2181
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2182
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Timer/TimerMaterial.uasset" 2183
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 2184
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 2185
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 2186
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 2187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 2188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 2189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 2190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 2191
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Timer/TimeMaterialSetter.uasset" 2192
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Timer/TimerAnimation.uasset" 2193
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/guess.uasset" 2194
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Guesses.uasset" 2195
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/Time.uasset" 2196
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_21AEB5DB4EA3F88C3285A6B5F29CE__976513E0B267C7B3A69AC341215D3809B62B033B.udd" 2197
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_26F511074F8B6D0AE542CA8550487__E767808B9A0B5B936BE677E109684085EA5179CF.udd" 2198
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_41BF3F6B4352E78611CE5893B074D__146D1733575ACB1948894630E5517D2670505207.udd" 2199
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_F0B834CA4094063AD30B079C01094__DE5CF4FB07058C0C3C60799E352F74E523BA33A7.udd" 2200
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___158003F4D891990F80648B2D3D512364FB0FEF90.udd" 2201
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/UI/Art/hexagon_white.uasset" 2202
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_0F0E00C3422A57510FD01E9603E2E__5D7DBB7930D056BE57CEFBF120B872F387B391DA.udd" 2203
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_0F0E00C3422A57510FD01E9603E2E__66CC62BB934A29A884758D1AEA71BEDC46175E87.udd" 2204
+"../../../Engine/Content/Maps/Entry.umap" 2205
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2206
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2207
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2208
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2209
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2210
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2211
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2212
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2213
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2214
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2215
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2216
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_6608D47D4F0216E2607BEB99F88FE__8C64EE5FBFB321D3B8493BC29E5060B924440375.udd" 2217
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/3/TEXTURE_564290F8998644E39A2118D5C683187B_DXT1_17D05C894BBC7CC00EA5C19D3C432579__3B8A41B8102BBC23406A0FCFC63BDB19CA29B195.udd" 2218
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/0/TEXTURE_564290F8998644E39A2118D5C683187B_G8_BE3DFEC04FD99B5A235B22B58C253599_0__7467C5AA7243B1C893C1BB36EC6219811C6B13A3.udd" 2219
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_50C1CFD042FB617F305B1DB647108__B540C68D76B31A076D0894F132349110794292F5.udd" 2220
+"../../../../../../Users/Karim Najib/Documents/GitHub/ColorJam62/ColorJam62/ProjectColors/Content/Sounds/DemonSpawn.uasset" 2221
+"C:/Users/Karim Najib/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_10EC6F5E43CD30BE0F4A208E9EA71AF3.udd" 2222
